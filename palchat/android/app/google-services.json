@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "549363381869",
+    "project_id": "palchat-20897",
+    "storage_bucket": "palchat-20897.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549363381869:android:0ce73a8daa5949be837164",
+        "android_client_info": {
+          "package_name": "com.example.palchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549363381869-9l1bun1t68sutc5n4om50vjo28v2nt5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK16l2NyR2zhmgoOzur2k9DEKaHYg_L8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549363381869-9l1bun1t68sutc5n4om50vjo28v2nt5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
